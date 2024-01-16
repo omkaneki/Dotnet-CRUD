@@ -13,6 +13,7 @@ builder.Services.AddSwaggerGen();
 var serviceProvider = builder.Services.BuildServiceProvider();
 
 builder.Services.AddTransient<IEmployeeService, EmployeeService>();
+builder.Services.AddTransient<IStudentService, StudentService>();
 
 
 var app = builder.Build();

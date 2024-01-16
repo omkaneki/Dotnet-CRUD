@@ -901,11 +901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omkar\\source\\repos\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
+      "projectUniqueName": "C:\\Users\\Omkar\\Source\\Repos\\Dotnet-CRUD\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
       "projectName": "CrudOperation",
-      "projectPath": "C:\\Users\\Omkar\\source\\repos\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
+      "projectPath": "C:\\Users\\Omkar\\Source\\Repos\\Dotnet-CRUD\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
       "packagesPath": "C:\\Users\\Omkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omkar\\source\\repos\\CrudOperation\\CrudOperation\\obj\\",
+      "outputPath": "C:\\Users\\Omkar\\Source\\Repos\\Dotnet-CRUD\\CrudOperation\\CrudOperation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
